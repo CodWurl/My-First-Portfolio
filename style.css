@@ -1,3 +1,7 @@
-body {
+.grey-bg {
     background-color: gray;
+}
+
+.white-text {
+    color : white
 }

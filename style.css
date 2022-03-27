@@ -13,3 +13,14 @@ img {
     
 }
 
+document.body.style.backgroundImage{
+    size: landscape;
+}
+
+p{
+  color : white
+}
+
+h3{
+    color : orange
+}

@@ -24,3 +24,8 @@ p{
 h3{
     color : orange
 }
+
+.document{
+    background-image : "url('https://www.sliderrevolution.com/wp-content/uploads/2021/10/cyber_gif.gif')";
+    background-repeat : no-repeat;
+}
